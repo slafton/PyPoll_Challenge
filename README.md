@@ -17,4 +17,7 @@
    - Diana Degette won the election with 272,892 votes which was 73.8% of the total votes.
 
 ## Election-Audit Summary
-#### This code can easily be refactored to be used for any election. Python is able to handle large amounts of data and is easy to use thanks to it's built in libraries. You could use the refactored election code for state election audits easily by declaring new variables and refactoring existing for and if statements. The results can easily be printed to a txt file.
+#### This code can easily be refactored to be used for any election. Python is able to handle large amounts of data and is easy to use thanks to it's built in libraries. You could use the refactored election code for state election audits easily by declaring new variables and refactoring existing for and if statements. The results can easily be printed to a txt file. Here is an image of the txt file we created with this code.
+
+
+![image](https://user-images.githubusercontent.com/108315330/179340138-3147e8c5-5411-4ded-813b-3a03e7fc6fc7.png)
